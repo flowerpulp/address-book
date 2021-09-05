@@ -1,6 +1,6 @@
 # address-book
 
-## What it does:
+## What it does
 
 - Takes a json file with a list of entrys and a list of allowed fields for the entrys
 - Checks if entry fields are allowed
