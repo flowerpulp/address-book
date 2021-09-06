@@ -8,7 +8,9 @@
 	{
 		"Name" : "Brigitte Hermine Bauer",
 		"Geburtsdatum" : "1957-11-06",
-		"E-Mail" : "email@brigittebauer.de",
-		"Telefon" : "+491729765404"
+		"E-Mail" : "email@brigittebauer.de"
+	},
+	{
+		"Name" : "Bob"
 	}
 ]
